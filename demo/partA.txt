@@ -1,0 +1,35 @@
+WAIT
+FONT Just the Way You Are
+MUSIC facile.wav
+BG bg01.jpg
+SPEAKER %MCL
+TEXT 1 Welcome to Tenryu Project 01!!
+TEXT 2   
+TEXT 3   
+SPRITE L %MCF
+SPRITE R %SCF
+WAIT
+TEXT 1 You are about to begin the tutorial level!
+TEXT 2 Use the arrow keys to move your player!
+TEXT 3 You can use shift to focus and "z" to shoot
+WAIT
+SPEAKER %SCL
+TEXT 1 Don't get hit! The white inside circles show your hitbox!
+TEXT 2 Focusing will make your hitbox smaller and make you move slower
+TEXT 3 Holding down "z" is a good strategy!
+SPRITE L %SCF
+SPRITE R %MCF
+WAIT
+TEXT 1 Press X to use defensive bombs, and C to use offensive bombs
+TEXT 2 Defensive bombs use up one of your bombs, and offensive bombs use 2
+TEXT 3 Each character has different bombs
+WAIT
+SPRITE L %MCF
+SPRITE R %SCF
+SPEAKER %SCF
+TEXT 1 Are you ready to begin?
+TEXT 2 Select an option!
+TEXT 3  
+CHOICE 1 I'm ready! Send me to the tutorial level!
+CHOICE 2 No thanks. Take me back to the menu.
+WAIT

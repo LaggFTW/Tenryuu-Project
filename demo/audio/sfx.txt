@@ -1,0 +1,6 @@
+select.wav
+back.wav
+shot.wav
+voices.wav
+explosion.wav
+death.wav
